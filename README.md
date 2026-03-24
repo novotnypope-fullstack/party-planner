@@ -31,3 +31,4 @@ If you're done early, try to implement one or more of the following features:
 ## Submission
 
 Please submit the link to your public GitHub repository.
+# party-planner
